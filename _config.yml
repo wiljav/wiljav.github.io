@@ -24,7 +24,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "William Jawad"
 description              : "A website to showcase studies and projects."
 logo: "/assets/img/logo.png"
-show_downloads: true
+show_downloads: false
 show_search: true
 show_search_full_content: true
 show_search_provider: true
