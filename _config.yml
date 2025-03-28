@@ -17,15 +17,7 @@ encoding                  : "utf-8"
 title                     : "William Jawad"
 title_separator           : "-"
 name                      : "William Jawad"
-description               : "Data Specialist with a background in Mechanical Engineering.
-                              MSc in Artificial Intelligence (focus on Machine Learning,
-                              and Deep Neural Networks) and experience in R&D,
-                              predictive maintenance, and data engineering.
-                              Proficient in Python, T-SQL, and Azure,
-                              with hands-on expertise in ETL optimisation,
-                              SAS Viya, and agile product ownership.
-                              Passionate about solving real-world problems
-                              at the intersection of AI and industrial applications."
+description               : "Data Specialist with a background in Mechanical Engineering. MSc in Artificial Intelligence (focus on Machine Learning, and Deep Neural Networks) and experience in R&D, predictive maintenance, and data engineering. Proficient in Python, T-SQL, and Azure, with hands-on expertise in ETL optimisation, SAS Viya, and agile product ownership. Passionate about solving real-world problems at the intersection of AI and industrial applications."
 # keywords                 : # "keyword1, keyword2, keyword3"
 logo                      : /assets/img/logo.png
 subtitle                 : "test subtitle"
