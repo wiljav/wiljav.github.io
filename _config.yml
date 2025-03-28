@@ -4,6 +4,19 @@ author: William
 site_url: https://william.github.io
 favicon: /assets/favicon.ico
 baseurl: /william
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-gist
+  - jekyll-assets
+  - jemoji
+  - kramdown
+  - jekyll-include-cache
+  - jekyll-redirect-from
+  - jekyll-archives
 query: 
   enable: true
   search_engine: google
