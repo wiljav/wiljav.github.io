@@ -16,7 +16,6 @@ title                     : "William Jawad"
 title_separator           : "-"
 name                      : "William Jawad"
 description               : "A website to showcase studies and projects"
-description_color       : "blue"
 # keywords                 : # "keyword1, keyword2, keyword3"
 logo                      : /assets/img/logo.png
 subtitle                 : "test subtitle"
