@@ -1,0 +1,17 @@
+theme: jekyll-theme-minimal
+title: William's Personal Page
+author: William
+site_url: https://william.github.io
+favicon: /assets/favicon.ico
+baseurl: /william
+query: 
+  enable: true
+  search_engine: google
+  search_placeholder: "Search..."
+  search_results: "Search results for"
+  no_results: "No results found"
+  no_results_description: "Try different keywords or check the spelling."
+social:
+linkedin: https://www.linkedin.com/in/william
+
+description: A personal page to showcase my projects and interests
