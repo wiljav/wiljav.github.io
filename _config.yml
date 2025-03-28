@@ -17,11 +17,12 @@ encoding                  : "utf-8"
 title                     : "William Jawad"
 title_separator           : "-"
 name                      : "William Jawad"
-description               : "\n\nData Specialist with a background in Mechanical Engineering.
+description               : "<br>Data Specialist with a background in Mechanical Engineering.
                               MSc in Artificial Intelligence (focus on Machine Learning,
                               and Deep Neural Networks) and experience in R&D,
                               predictive maintenance, and data engineering.
-                              \n\n
+                              <br>
+                              <br>
                               Currently working as a Data Engineer at Aalto University in Finland.
                               Proficient in Python, T-SQL, and Azure,
                               with hands-on expertise in ETL optimisation,
