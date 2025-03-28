@@ -18,7 +18,7 @@ locale                   : "en-GB" # https://www.localeplanet.com/icu/iso639a/en
 lang                    : "en" # https://www.localeplanet.com/icu/iso639a/en.html
 encoding                : "utf-8"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "William's Website showing studies and projects"
+title                    : "My Website showing studies and projects"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "William Jawad"
