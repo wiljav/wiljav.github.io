@@ -12,12 +12,35 @@ remote_theme: "pages-themes/minimal@v0.2.0"
 locale                    : "en-GB" # https://www.localeplanet.com/icu/iso639a/en-GB.html
 lang                      : "en" # https://www.localeplanet.com/icu/iso639a/en.html
 encoding                  : "utf-8"
-title                     : "Showing projects"
+title                     : "William Jawad"
 title_separator           : "-"
 name                      : "William Jawad"
-description               : "A website to showcase studies and projects."
+description               : "A website to showcase studies and projects"
+description_color       : "blue"
+# keywords                 : # "keyword1, keyword2, keyword3"
 logo                      : /assets/img/logo.png
-# subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "test subtitle"
+# tagline                   : # tagline for the site, e.g. "A blog by William Jawad"
+# tagline_separator         : # tagline separator, e.g. " - "
+# tagline_position          : # "before" (default), "after"
+# tagline_color            : # "white" (default), "black"
+# tagline_background_color : # "white" (default), "black"
+# tagline_background_image : # path of background image, e.g. "/assets/images/88x88.png"
+# tagline_background_opacity : # 0.5 (default), 0.0 - 1.0
+# tagline_background_position : # "center" (default), "left", "right"
+# tagline_background_repeat : # "no-repeat" (default), "repeat", "repeat-x", "repeat-y"
+# tagline_background_size   : # "cover" (default), "contain", "auto"
+# tagline_background_attachment : # "fixed" (default), "scroll"
+# tagline_background_blur   : # 0 (default), 0.0 - 1.0
+# tagline_background_filter : # "none" (default), "blur", "grayscale", "sepia"
+# tagline_background_filter_strength : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_color : # "white" (default), "black"
+# tagline_background_filter_opacity : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_blur : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_grayscale : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_sepia : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_hue_rotate : # 0 (default), 0.0 - 1.0
+# tagline_background_filter_invert : # 0 (default), 0.0 - 1.0
 # rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 # show_downloads: false
 # show_search: false
