@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+[Projects](./projects.html)
+
+
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
