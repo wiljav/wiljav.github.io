@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-remote_theme: pages-themes/minimal@v0.2.0
+# theme                  : "jekyll-theme-minimal"
+remote_theme: "pages-themes/minimal@v0.2.0"
 
 # Site Settings
 locale                   : "en-GB" # https://www.localeplanet.com/icu/iso639a/en-GB.html
@@ -23,6 +23,13 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "William Jawad"
 description              : "A website to showcase studies and projects."
+logo: "/assets/img/logo.png"
+show_downloads: true
+show_search: true
+show_search_full_content: true
+show_search_provider: true
+
+
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
