@@ -9,14 +9,14 @@
 remote_theme: "pages-themes/minimal@v0.2.0"
 
 # Site Settings
-locale                   : "en-GB" # https://www.localeplanet.com/icu/iso639a/en-GB.html
-lang                    : "en" # https://www.localeplanet.com/icu/iso639a/en.html
-encoding                : "utf-8"
-title                    : "Showing projects"
-title_separator          : "-"
-name                     : "William Jawad"
-description              : "A website to showcase studies and projects."
-logo: "/assets/img/logo.png"
+locale                    : "en-GB" # https://www.localeplanet.com/icu/iso639a/en-GB.html
+lang                      : "en" # https://www.localeplanet.com/icu/iso639a/en.html
+encoding                  : "utf-8"
+title                     : "Showing projects"
+title_separator           : "-"
+name                      : "William Jawad"
+description               : "A website to showcase studies and projects."
+logo                      : /assets/img/logo.png
 # subtitle                 : # site tagline that appears below site title in masthead
 # rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 # show_downloads: false
