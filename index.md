@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+<!-- # Portfolio -->
 
-[Projects](./projects.html)
+<!-- [Projects](./projects.html) -->
+# Projects
+## project 1
+### test
 
+## project 2
+### test
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
