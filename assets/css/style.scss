@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+$base-color: #c6538c;
+$border-dark: rgba($base-color, 1);
+
+.body {
+  border: 1px solid $border-dark;
+}
