@@ -5,11 +5,17 @@ layout: default
 
 <!-- [Projects](./projects.html) -->
 # Projects
-## project 1
-### test
+## API Data to CSV
+### Description
+This project is designed to retrieve data from an API, process it using Apache Kafka, and store the results in MinIO. It utilises Pandas for data manipulation and analysis. The setup employs Docker for containerisation, ensuring a consistent environment across different platforms.
 
-## project 2
-### test
+Link: [API2CSV](https://github.com/wiljav/API2CSV)
+
+## FlaskAPI
+### Description
+A simple Flask API, to count letters inputed by a user. The project is hosted on Render cloud application platform.
+
+Link: [FlaskAPI](https://github.com/wiljav/FlaskAPI)
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
