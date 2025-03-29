@@ -11,11 +11,17 @@ This project is designed to retrieve data from an API, process it using Apache K
 
 Link: [API2CSV](https://github.com/wiljav/API2CSV)
 
-## FlaskAPI
+## Flask API
 ### Description
 A simple Flask API, to count letters inputed by a user. The project is hosted on Render cloud application platform.
 
 Link: [FlaskAPI](https://github.com/wiljav/FlaskAPI)
+
+## AI Prompter
+### Description
+A Google Chrome extension to generate optimised prompts that to efficiently use language models (LMs) for a wide variety of applications and research topics.
+
+Link: [AI_Prompter](https://github.com/wiljav/AI_Prompter)
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
