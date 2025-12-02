@@ -35,6 +35,31 @@ A lightweight, local-first Bill of Materials and engineering data manager built 
 
 Link: [BOM_manager](https://github.com/wiljav/BOM_manager)
 
+---
+
+## Asile Data Warehouse (DW)
+### Description
+A project to create a small data warehouse using Docker, DBT
+
+Link: [BOM_manager](https://github.com/wiljav/Asile-Data-Warehouse)
+
+---
+
+## Device Utilization Analytics Web Service
+### Description
+This is a simple and offline web app developed in Python to analyze device utilisation data.
+
+Link: [BOM_manager](https://github.com/wiljav/Device-Utilization-Analytics-Web-Service)
+
+---
+
+## Problem: Median with Limited Memory
+### Description
+A fun task to find a solution to the limited memory problem
+
+Link: [BOM_manager](https://github.com/wiljav/Limited-Memory-Problem-for-fun)
+
+---
 
 <!-- 
 --------------------
