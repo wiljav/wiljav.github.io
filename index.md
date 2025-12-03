@@ -41,7 +41,7 @@ Link: [BOM_manager](https://github.com/wiljav/BOM_manager)
 ### Description
 A project to create a small data warehouse using Docker, DBT
 
-Link: [BOM_manager](https://github.com/wiljav/Asile-Data-Warehouse)
+Link: [Asile Data Warehouse (DW)](https://github.com/wiljav/Asile-Data-Warehouse)
 
 ---
 
@@ -49,7 +49,7 @@ Link: [BOM_manager](https://github.com/wiljav/Asile-Data-Warehouse)
 ### Description
 This is a simple and offline web app developed in Python to analyze device utilisation data.
 
-Link: [BOM_manager](https://github.com/wiljav/Device-Utilization-Analytics-Web-Service)
+Link: [Device Utilization Analytics Web Service](https://github.com/wiljav/Device-Utilization-Analytics-Web-Service)
 
 ---
 
@@ -57,7 +57,7 @@ Link: [BOM_manager](https://github.com/wiljav/Device-Utilization-Analytics-Web-S
 ### Description
 A fun task to find a solution to the limited memory problem
 
-Link: [BOM_manager](https://github.com/wiljav/Limited-Memory-Problem-for-fun)
+Link: [Median with Limited Memory](https://github.com/wiljav/Limited-Memory-Problem-for-fun)
 
 ---
 
